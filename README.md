@@ -1,1 +1,1 @@
-# houseprice-using-linear-regression
+# houseprice-using-linear-regression (one hot encoded)
